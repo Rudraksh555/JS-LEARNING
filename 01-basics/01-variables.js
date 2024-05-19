@@ -5,6 +5,7 @@ accountCity = "Wardha"
 let accountState;
 
 // accountId = 2 // not allowed
+
 console.log(accountId);
 
 accountEmail = "hdfbu@wr.com"
